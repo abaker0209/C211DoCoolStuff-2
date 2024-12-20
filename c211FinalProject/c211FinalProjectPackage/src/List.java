@@ -5,7 +5,7 @@
 / Description: List Object will hold nodes (games) and allow for insertion and removal of nodes. 
 /
  */
-package com.c211docoolstuff.c211finalproject2; 
+package c211FinalProjectPackage; 
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

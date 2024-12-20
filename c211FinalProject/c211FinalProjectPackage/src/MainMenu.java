@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package com.c211docoolstuff.c211finalproject2; 
+package c211FinalProjectPackage; 
 
 /**
  * / Contributors: Amber Baker, Scott Nguyen, Samuel Vaughn / Date: 12/19/2024 /

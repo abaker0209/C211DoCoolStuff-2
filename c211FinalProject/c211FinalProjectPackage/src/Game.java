@@ -5,7 +5,7 @@
 /Description: Stub for the Game class, representing individual game objects in the library.
 /
  */
-package com.c211docoolstuff.c211finalproject2; 
+package c211FinalProjectPackage; 
 
 
 public class Game {

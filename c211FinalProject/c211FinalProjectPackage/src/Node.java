@@ -6,7 +6,7 @@
 /
  */
 
-package com.c211docoolstuff.c211finalproject2; 
+package c211FinalProjectPackage; 
 
 
 public class Node {

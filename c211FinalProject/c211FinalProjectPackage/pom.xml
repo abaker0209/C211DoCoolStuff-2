@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.c211DoCoolStuff</groupId>
+    <groupId>c211DoCoolStuff</groupId>
     <artifactId>c211FinalProject</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
@@ -15,6 +15,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>21</maven.compiler.release>
-        <exec.mainClass>C211DoCoolStuff\c211FinalProject\target\classes;C:\Users\AMBER\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE230\AbsoluteLayout-RELEASE230.jar</exec.mainClass>
+        <exec.mainClass>C:\Users\AMBER\Documents\c211DoCoolStuff-2\c211FinalProject\c211FinalProjectPackage\src\MainMenu.java</exec.mainClass>
     </properties>
 </project>
